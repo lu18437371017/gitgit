@@ -5,5 +5,7 @@ public class git1 {
 			
 			System.out.println("来吧展示");
 			System.out.println("向旗来吧展示");
+			System.out.println("向旗来吧展示");
+			System.out.println("向旗来吧展示");
 		}
 }
